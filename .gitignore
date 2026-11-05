@@ -1,0 +1,6 @@
+target/
+linkedin_profile/
+output/
+.idea/
+*.iml
+.DS_Store
